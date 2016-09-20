@@ -16,3 +16,23 @@ html {
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+body {
+  background-color: #e2e2e2;
+}
+
+a {
+  color: #fff;
+  background-color: #555;
+  border-radius: 4px;
+  padding: 0.5em, 0.75em;
+}
+
+a .hover {
+  color: #
+}
+
+.img-flex {
+  width: 100%;
+  display: block;
+}
