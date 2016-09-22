@@ -21,18 +21,25 @@ body {
   background-color: #e2e2e2;
 }
 
+div {
+  display: inline-block;
+}
+
 a {
   color: #fff;
   background-color: #555;
   border-radius: 4px;
-  padding: 0.5em, 0.75em;
-}
-
-a .hover {
-  color: #
+  padding: 0.5em 0.75em;
 }
 
 .img-flex {
   width: 100%;
   display: block;
+  margin: 0;
 }
+
+@media only screen and (min-width: 38em) {
+
+@media only screen and (min-width: 60em) {
+
+@media only screen and (min-width: 90em) {
